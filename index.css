@@ -173,7 +173,7 @@
 }
 @media only screen and (max-width: 500px){
     .body{
-        width: 50em;
+        width: 80em;
         background-color: aqua;
     }
     /* .whole{
@@ -197,7 +197,7 @@
         display: inline;
     }
     .svg2{
-        
+        margin-right: 4rem;
     }
 
 }
