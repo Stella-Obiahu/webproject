@@ -186,6 +186,9 @@
         margin-bottom: .1em;
         margin-right: .2em;
     }
+    .step1{
+        background-color: rgb(252, 245, 245);
+    }
     .step1a{
         display: none;
     }
@@ -199,6 +202,7 @@
     .page1{
         text-align: center;
        padding-left: 6.5em;
+       margin-top: 2em;
     }
     .page1bag2{
         text-align: center;
