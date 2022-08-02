@@ -173,7 +173,7 @@
 }
 @media only screen and (max-width: 500px){
     .body{
-        width: 50vw;
+        width: 50em;
         background-color: aqua;
     }
     /* .whole{
