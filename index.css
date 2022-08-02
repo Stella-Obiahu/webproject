@@ -176,9 +176,9 @@
         width: 50em;
         background-color: aqua;
     }
-    /* .whole{
+    .whole{
         width: 30em;
-    } */
+    } 
     .loginsignup2{
         display: none;
     }
