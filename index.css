@@ -56,7 +56,7 @@
     background-color: aliceblue;
 }
 .page1bag{
-    font-size: 50px;
+    font-size: 40px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bolder;
 }
@@ -70,8 +70,8 @@
     padding-left: 11px;
 }
 .svg2{
-    margin-top: 3rem;
-    margin-left: 7rem; 
+    margin-top: 2rem;
+    margin-left: 20rem; 
 }
 .step2i{
     background-color:rgb(22, 1, 22);
@@ -173,8 +173,11 @@
 }
 @media only screen and (max-width: 500px){
     .body{
-        width: 30em;
+        width: 10em;
     }
+    /* .whole{
+        width: 30em;
+    } */
     .loginsignup2{
         display: none;
     }
@@ -191,6 +194,9 @@
     .step1b{
         width: 30em;
         display: inline;
+    }
+    .svg2{
+        
     }
 
 }
